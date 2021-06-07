@@ -45,6 +45,6 @@ jobs:
     
     steps:
       - name: Ultimo passo
-        run: date
+        run: curl github.com
   
   
